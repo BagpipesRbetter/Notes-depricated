@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "b41330ad8f8a6368",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50ffa1236fee6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b68badb1cada37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0961e6d6ea0b466c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a55dce06cedadd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40d96cc61e6991c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ac3f7164e24d673",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3fc13d196c5127d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "07d74b0a925ae7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe8e69108de5835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465ddb9f95297712",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "83d7cec05d3bbd58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64bce69339f376d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "233ac23052e84916",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "8b68badb1cada37b",
+  "lastOpenFiles": [
+    "templates/School.md",
+    "templates/Personal.md",
+    "templates/Daily Notes.md",
+    "templates/Wikipedia.md",
+    "templates/Workout logs.md",
+    "Welcome.md",
+    "School Notes/Gov/Gov - 10-16-24.md",
+    "School Notes/Intern/Log - 10-16-24.md",
+    "Docs/README.md",
+    "Daily Notes/10-18-24.md",
+    "Images/PayStub_10_22_2024.pdf",
+    "Misc/ReadItLater/This might be why Ryujinx and Yuzu had to die.md",
+    "Images/Pasted image 20241018133701.png",
+    "Docs/index.md",
+    "Docs/_config.yml",
+    "Docs/Gemfile.lock",
+    "Docs/Gemfile",
+    "Docs/js/Script.js",
+    "Docs/js",
+    "Docs/index.html",
+    "Docs/css/styles.css",
+    "Docs/css",
+    "_config.yml",
+    "Misc/ReadItLater/‎Mactracker.md",
+    "Misc/ReadItLater/Article 2024-10-15 16-47-46.md",
+    "Wikipedia Imports/Dandadan.md",
+    "School Notes/Intern/Log - 10-14-24.md",
+    "Images/IMG_1503.jpg",
+    "Images/IMG_1628.jpeg",
+    "Images/IMG_1617.jpg",
+    "Images/IMG_1635.jpg",
+    "Images/Sketchpad Drawing.png",
+    "Images/favicon.svg",
+    "Images/file.svg",
+    "Images/image.svg",
+    "Images/foldero.svg",
+    "Daily Notes/10-16-24.md",
+    "Misc/ReadItLater/Youtube - My headphones had a major problem until I built this.md",
+    "Misc/ReadItLater/Youtube - Filthy Dog.md",
+    "Misc/ReadItLater/Article 10-04-24 22-33-18.md",
+    "Misc/TODO NOW.md",
+    "TODO NOW.md",
+    "Daily Notes/10-11-24.md",
+    "ReadItLater/‎Mactracker.md",
+    "School Notes/Gov/Gov - 10-8-24.md",
+    "School Notes/Myth/Myth - 10-15-24.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
