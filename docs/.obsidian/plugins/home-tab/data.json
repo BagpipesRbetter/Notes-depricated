@@ -1,0 +1,42 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "What's Next Boss",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 7,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": true,
+  "recentFilesStore": [
+    {
+      "filepath": "Misc/ReadItLater/Part List - AMD Ryzen 5 7600X3D, GeForce RTX 4060 Ti, Fractal Design Terra Mini ITX Desktop - PCPartPicker.md",
+      "timestamp": 1729449276176
+    },
+    {
+      "filepath": "Daily Notes/10-19-24.md",
+      "timestamp": 1729379576875
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
